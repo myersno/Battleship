@@ -1,0 +1,11 @@
+This project gave both Jon and I a lot of trouble. We spent a lot of time researching C++ and getting a better grip on what we were doing here.
+
+I think we overcomplicated things drastically, but this is where we ended up. At this point, we're just happy to be turning something in after the amount of time we spent trying to come up with a solution that is up to standards. 
+
+To run all this, you SHOULD need to just run the executeMain file. Although there did seem to be some linker problems going on when I tried to run it with g++ every once in a while, but I couldn't properly troubleshoot that.
+
+Again, we know how late this is and we know how over complicated everything here really probably is, but this is where we are now, and we don't have reaelly any time to go back and change any of this now. 
+
+We tried to get comments everywhere to help the general understanding of what we were thinking and doing as we went along, but it was a bit hard to trace even for us as we were writing everything, hopefully even if this doesn't completely run the way we want, you can at least understand what we were thinking as we were doing it haha. 
+
+
